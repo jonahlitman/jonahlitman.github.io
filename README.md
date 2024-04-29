@@ -21,7 +21,10 @@ Week 5+
 What actually happened
 
 Week 1
-  day 1 worked on codecademy
-  day 2 worked on codecademy
-  day 3 worked on codecademy
-  day 4 worked on codecademy
+day 1 worked on codecademy
+day 2 worked on codecademy
+day 3 worked on codecademy
+day 4 worked on codecademy
+
+Week 2
+day 1 worked on codecademy
