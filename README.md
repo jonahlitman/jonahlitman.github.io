@@ -28,3 +28,4 @@ day 4 worked on codecademy
 
 Week 2
 day 1 finished codecademy html, started building site
+day 2 worked on basic version of site
