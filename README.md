@@ -21,12 +21,26 @@ Week 5+
 What actually happened
 
 Week 1
+
 day 1 worked on codecademy
+
 day 2 worked on codecademy
+
 day 3 worked on codecademy
+
 day 4 worked on codecademy
 
 Week 2
+
 day 1 finished codecademy html, started building site
+
 day 2 worked on basic version of site
-Day 3 finished up basic version with two pages, started css codecademy
+
+Day 3 finished up basic version with two pages, started intro to css codecademy
+
+
+
+
+
+
+
