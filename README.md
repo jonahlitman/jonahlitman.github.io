@@ -40,6 +40,10 @@ Day 3 finished up basic version with two pages, started intro to css codecademy
 
 day 4 worked on codecademy
 
+Week 3
+
+day 1 worked on codecademy and made minor changes to the page. Started the slides for the presentation
+
 
 
 
