@@ -44,6 +44,7 @@ Week 3
 
 day 1 worked on codecademy and made minor changes to the page. Started the slides for the presentation
 
+Day 2 worked on codecademy
 
 
 
