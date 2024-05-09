@@ -46,6 +46,8 @@ day 1 worked on codecademy and made minor changes to the page. Started the slide
 
 Day 2 worked on codecademy
 
+day 3 out
 
+day 4 worked on codecademy
 
 
