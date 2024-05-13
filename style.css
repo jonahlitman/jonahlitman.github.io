@@ -1,4 +1,8 @@
 * {
-  font-family: "georgia":
-  color: green
+  font-family: "georgia";
+  color: green;
+}
+
+h1 {
+  color: red;
 }
