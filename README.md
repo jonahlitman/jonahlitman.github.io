@@ -50,4 +50,10 @@ day 3 out
 
 day 4 worked on codecademy
 
+Week 4
+
+day 1 worked on codecademy and started the css file
+
+day 2 worked on css in the file and codecademy
+
 
