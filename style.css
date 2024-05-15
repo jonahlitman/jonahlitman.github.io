@@ -19,4 +19,5 @@ hr {
   color: #DD6E42;
   size: 4px;
   width: 250px;
+  border-top: 3px double #333;
 }
