@@ -16,9 +16,10 @@ a:hover {
 
 hr {
   border: none;
-  border-top: 3px double #333;
-  color: #333;
+  border-top: 4px double #DD6E42;
+  color: #DD6E42;
   overflow: visible;
   text-align: center;
   height: 5px;
+  width: 250px;
 }
