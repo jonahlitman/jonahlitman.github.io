@@ -14,3 +14,12 @@ a:hover {
   font-weight: bold;
 }
 
+hr {
+  text-align: center;
+  color: #DD6E42;
+  height: 1px;
+  width: 250px;
+  border-top: 6px #DD6E42;
+  border: 0;
+  margin: 3px;
+}
