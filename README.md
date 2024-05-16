@@ -58,3 +58,5 @@ day 2 worked on css in the file and codecademy
 
 day 3 worked on css and made slides
 
+day 4 slides, codecademy, css
+
