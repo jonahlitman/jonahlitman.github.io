@@ -3,7 +3,7 @@
   color: #4F6D7A;
   background: #E8DAB2;
   text-align: center;
-
+  box-sizing: border-box;
 }
 
 h1 {
