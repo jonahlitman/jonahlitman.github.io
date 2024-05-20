@@ -24,3 +24,13 @@ hr {
   height: 5px;
   width: 200px;
 }
+
+.nav {
+  background-color: #C0D6DF;
+  border: 2px DD6E42;
+  display: inline-block;
+  padding: 10px;
+  height: 60px;
+  width: 100px;
+  top: 40px;
+}
