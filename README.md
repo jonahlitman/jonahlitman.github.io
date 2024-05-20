@@ -61,3 +61,7 @@ day 3 worked on css and made slides
 day 4 slides, codecademy, css
 
 day 5 codecademy / worked on css
+
+Week 5
+
+Worked on codecademy, worked on css and html
