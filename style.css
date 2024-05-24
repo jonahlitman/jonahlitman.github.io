@@ -25,6 +25,12 @@ hr {
   width: 200px;
 }
 
+nav {
+  width: 100%;
+  background-color: #C0D6DF;
+  height: 100px;
+  position: fixed;
+
 .nav {
   background-color: #EAEAEA;
   border: 2px solid #DD6E42;
