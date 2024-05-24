@@ -7,7 +7,7 @@
 }
 
 h1 {
-  top:100px:
+
 }
 
 a:hover {
@@ -25,23 +25,16 @@ hr {
   width: 200px;
 }
 
-nav {
-  width: 100%;
-  background-color: #C0D6DF;
-  height: 50px;
-  top:0px;
-
 .nav {
-  background-color: #C0D6DF;
-  border: 2px solid #DD6E42;
+  background-color: #E8DAB2;
+  border: 2px solid #4F6D7A;
   display: inline-block;
   height: 50px;
   width: 100px;
   top: 40px;
-  padding: 0px;
 }
 .nav:hover {
   background-color: #DD6E42;
-  color: #C0D6DF;
+  color: #4F6D7A;
   font-weight: bold;
 }
