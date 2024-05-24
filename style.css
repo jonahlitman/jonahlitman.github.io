@@ -29,16 +29,16 @@ nav {
   width: 100%;
   background-color: #C0D6DF;
   height: 50px;
-  position: fixed;
   top:0px;
 
 .nav {
-  background-color: #EAEAEA;
+  background-color: #C0D6DF;
   border: 2px solid #DD6E42;
   display: inline-block;
   height: 50px;
   width: 100px;
   top: 40px;
+  padding: 0px;
 }
 .nav:hover {
   background-color: #DD6E42;
