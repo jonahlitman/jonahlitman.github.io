@@ -64,4 +64,6 @@ day 5 codecademy / worked on css
 
 Week 5
 
-Worked on codecademy, worked on css and html
+day 1 Worked on codecademy, worked on css and html
+
+day 2 worked on adding buttons to page
