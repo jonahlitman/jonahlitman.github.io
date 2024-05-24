@@ -29,8 +29,13 @@ hr {
   background-color: #C0D6DF;
   border: 2px solid #DD6E42;
   display: inline-block;
-  float: left;
   height: 60px;
   width: 100px;
   top: 40px;
+}
+.nav:hover {
+  background-color: #DD6E42;
+  color: #C0D6DF;
+  border: 2px solid #C0D6DF;
+  font-weight: bold;
 }
