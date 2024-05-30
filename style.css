@@ -41,3 +41,7 @@ hr {
 .jonah {
   height: 150px;
 }
+
+.article-text {
+  max-width: 500px;
+}
