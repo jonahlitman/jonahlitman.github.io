@@ -71,3 +71,5 @@ day 2 worked on adding buttons to page
 day 3 worked on css and codecademy 
 
 day 4 worked on codecademy
+
+day 5 worked on css and html for article example
