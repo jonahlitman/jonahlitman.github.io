@@ -56,9 +56,5 @@ figure {
 }
 
 .author-info {
-
-}
-
-.author-caption {
-
+  max-width: 500px;
 }
