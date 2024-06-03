@@ -29,11 +29,13 @@ hr {
   width: 100px;
   top: 40px;
 }
+
 .nav:hover {
   background-color: #DD6E42;
   color: #C0D6DF;
   font-weight: bold;
 }
+
 .jonah {
   height: 150px;
 }
@@ -49,13 +51,13 @@ figure {
 }
 
 .quote {
-  background-color: E5E4E2;
-  height: 350;
-  width: 250;
   font-size: 30px;
   font-weight: bold;
 }
 
 .author-info {
-  background-color: E5E4E2;
+  display: inline;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
 }
