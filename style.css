@@ -56,12 +56,9 @@ figure {
 }
 
 .author-info {
-  display: inline-block;
-  max-width: 500px;
-  margin-left: auto;
-  margin-right: auto;
+
 }
 
 .author-caption {
-  float: right;
+
 }
