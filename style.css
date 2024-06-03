@@ -6,10 +6,6 @@
   box-sizing: border-box;
 }
 
-h1 {
-
-}
-
 a:hover {
   color: #DD6E42;
   font-weight: bold;
@@ -52,10 +48,14 @@ figure {
   margin-right: auto;
 }
 
-.quote p {
+.quote {
   background-color: E5E4E2;
   height: 350;
   width: 250;
-  font-size: 30px
+  font-size: 30px;
   font-weight: bold;
+}
+
+.author-info {
+  background-color: E5E4E2;
 }
